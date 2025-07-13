@@ -1,0 +1,4 @@
+pyautogui==0.9.53
+psutil==5.9.8
+SpeechRecognition==3.10.0
+pyaudio==0.2.13
